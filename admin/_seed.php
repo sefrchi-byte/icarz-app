@@ -1,0 +1,18 @@
+<?php
+// auto-generated seed from front catalog - do not edit by hand
+$seedProducts=[
+['id'=>1,'brand'=>'صبا','name'=>'باتری صبا ۵۰ آمپر اتمی','cat'=>'car','for_car'=>'پراید، ۲۰۶، تیبا','price'=>2450000,'old'=>2800000,'stock'=>7,'pct'=>73,'rating'=>'۴.۷','sold'=>'۱٬۸۰۰','warranty'=>'۱۸ ماه گارانتی شرکتی','seller_id'=>1,'hot'=>'amaz','grad'=>'linear-gradient(135deg,var(--deep),#0E9F5C)','label'=>'linear-gradient(135deg,#1DB954,#0B6E34)'],
+['id'=>2,'brand'=>'وارتا','name'=>'باتری وارتا ۶۰ آمپر بلو','cat'=>'car','for_car'=>'سمند، دنا، شاهین','price'=>3980000,'old'=>0,'stock'=>10,'pct'=>0,'rating'=>'۴.۹','sold'=>'۹۴۰','warranty'=>'۲۴ ماه گارانتی شرکتی','seller_id'=>2,'hot'=>'hot','grad'=>'linear-gradient(135deg,#0A1F5C,#2B5FD9)','label'=>'linear-gradient(135deg,#3B82F6,#1D4ED8)'],
+['id'=>3,'brand'=>'دلکور','name'=>'باتری دلکور ۷۰ آمپر','cat'=>'car','for_car'=>'تویوتا، هیوندا، کیا','price'=>4650000,'old'=>4900000,'stock'=>5,'pct'=>61,'rating'=>'۴.۸','sold'=>'۷۲۰','warranty'=>'۲۰ ماه گارانتی شرکتی','seller_id'=>3,'hot'=>'','grad'=>'linear-gradient(135deg,#3B1470,#7C3AED)','label'=>'linear-gradient(135deg,#8B5CF6,#5B21B6)'],
+['id'=>4,'brand'=>'اوربیتال','name'=>'باتری اوربیتال ۹ آمپر موتور','cat'=>'moto','for_car'=>'هوندا، کویر، تی‌وی‌اس','price'=>980000,'old'=>0,'stock'=>10,'pct'=>0,'rating'=>'۴.۸','sold'=>'۲٬۳۰۰','warranty'=>'۱۲ ماه گارانتی شرکتی','seller_id'=>1,'hot'=>'hot','grad'=>'linear-gradient(135deg,#5B2505,#D97706)','label'=>'linear-gradient(135deg,#F59E0B,#B45309)'],
+['id'=>5,'brand'=>'بوش','name'=>'باتری بوش ۷۴ آمپر S5','cat'=>'car','for_car'=>'خودروهای خارجی','price'=>5200000,'old'=>0,'stock'=>10,'pct'=>0,'rating'=>'۵.۰','sold'=>'۴۱۰','warranty'=>'۲۴ ماه گارانتی شرکتی','seller_id'=>4,'hot'=>'','grad'=>'linear-gradient(135deg,#101318,#3A4356)','label'=>'linear-gradient(135deg,#6B7280,#1F2937)'],
+['id'=>6,'brand'=>'سپاهان','name'=>'باتری سپاهان ۶۰ آمپر','cat'=>'car','for_car'=>'پژو، سمند، رانا','price'=>2990000,'old'=>3200000,'stock'=>10,'pct'=>0,'rating'=>'۴.۶','sold'=>'۱٬۵۰۰','warranty'=>'۲۰ ماه گارانتی شرکتی','seller_id'=>5,'hot'=>'','grad'=>'linear-gradient(135deg,#07304F,#0284C7)','label'=>'linear-gradient(135deg,#0EA5E9,#0369A1)'],
+['id'=>7,'brand'=>'صبا','name'=>'باتری صبا ۱۲ آمپر موتور','cat'=>'moto','for_car'=>'موتورهای طرح هوندا','price'=>1150000,'old'=>0,'stock'=>10,'pct'=>0,'rating'=>'۴.۷','sold'=>'۹۸۰','warranty'=>'۱۲ ماه گارانتی شرکتی','seller_id'=>2,'hot'=>'','grad'=>'linear-gradient(135deg,var(--deep),#0E9F5C)','label'=>'linear-gradient(135deg,#1DB954,#0B6E34)'],
+['id'=>8,'brand'=>'دلکور','name'=>'باتری دلکور ۱۰۰ آمپر سنگین','cat'=>'truck','for_car'=>'کامیون، مینی‌بوس، دیزل','price'=>6900000,'old'=>0,'stock'=>10,'pct'=>0,'rating'=>'۴.۹','sold'=>'۲۶۰','warranty'=>'۱۸ ماه گارانتی شرکتی','seller_id'=>3,'hot'=>'','grad'=>'linear-gradient(135deg,#23232B,#52525B)','label'=>'linear-gradient(135deg,#71717A,#27272A)'],
+];$seedSellers=[
+['id'=>1,'name'=>'باتری‌کار مرکزی','area'=>'سعادت‌آباد','dist'=>'۱٫۲ کیلومتر','eta'=>'۲۵ دقیقه','rating'=>'۴.۹','jobs'=>'۱٬۲۴۰ نصب موفق','fee'=>0],
+['id'=>2,'name'=>'علی محمدی','area'=>'شهرک غرب','dist'=>'۲ کیلومتر','eta'=>'۳۰ دقیقه','rating'=>'۴.۸','jobs'=>'۸۶۰ نصب موفق','fee'=>0],
+['id'=>3,'name'=>'امداد باتری غرب','area'=>'پونک','dist'=>'۳٫۵ کیلومتر','eta'=>'۳۵ دقیقه','rating'=>'۴.۷','jobs'=>'۲٬۱۰۰ نصب موفق','fee'=>50000],
+['id'=>4,'name'=>'رضا کریمی','area'=>'مرزداران','dist'=>'۴ کیلومتر','eta'=>'۴۰ دقیقه','rating'=>'۴.۹','jobs'=>'۶۴۰ نصب موفق','fee'=>0],
+['id'=>5,'name'=>'باتری شبانه‌روزی','area'=>'ستارخان','dist'=>'۵ کیلومتر','eta'=>'۴۵ دقیقه','rating'=>'۴.۶','jobs'=>'۳٬۴۰۰ نصب موفق','fee'=>80000],
+];
